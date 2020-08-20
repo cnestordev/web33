@@ -5,7 +5,7 @@ function App() {
 
   return (
     <main>
-      <h1>WEB33 Application</h1>
+      <h1>Lambda web33 Application</h1>
       <h2>
         Deployed with{' '}
         <a
